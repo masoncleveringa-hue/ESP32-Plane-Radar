@@ -8,7 +8,7 @@ namespace ui::radar {
 /**
  * Range presets (label on ring 3 = ¾ of outer radius).
  *
- * Custom wide-range presets:
+ * Custom wide-range presets for Mason:
  *  10 km  — local spotting
  *  25 km  — metro / regional picture
  *  50 km  — wide regional picture
